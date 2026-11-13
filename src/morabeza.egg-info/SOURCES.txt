@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/morabeza/__init__.py
+src/morabeza/resumo.py
+src/morabeza.egg-info/PKG-INFO
+src/morabeza.egg-info/SOURCES.txt
+src/morabeza.egg-info/dependency_links.txt
+src/morabeza.egg-info/top_level.txt
+tests/test_resumo.py
